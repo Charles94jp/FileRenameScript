@@ -15,4 +15,4 @@
 
 # 使用方法
 
-[](./example.png)
+![](./example.png)
